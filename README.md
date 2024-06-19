@@ -1,4 +1,4 @@
-<h2>Bonjour</h2>
+<h2>Greetings</h2>
 
 I'm Jules bernard, a software developer currently studying at <a href="https://42berlin.de">42 Berlin</a>.
 
