@@ -1,6 +1,9 @@
 <h2>Greetings</h2>
 
-I'm Jules bernard, a software developer currently studying at <a href="https://42berlin.de">42 Berlin</a>.
+I'm Jules bernard, a software developer into pixels, web dev and embeded system.
+I finished the core curriculum at <a href="https://42berlin.de">42 Berlin</a>,
+But the learning never stops.
+
 
 I’m developping my skills in **C**, **C++**, **Python**, and **JavaScript**.
 
