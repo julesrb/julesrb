@@ -9,13 +9,7 @@ I’m developping my skills in **C**, **C++**, **Python**, and **JavaScript**.
 
 <h3>Tech Stack</h3>
 
-[![c](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![cpp](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![docker](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![javascript](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![react](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![unix](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
+[![myskills](https://skillicons.dev/icons?i=js,html,css,javascript,react,c,cpp, docker, unix)](https://skillicons.dev)
 
 <h3>Connect with me</h3>
 <p>
