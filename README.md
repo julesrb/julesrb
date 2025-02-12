@@ -7,7 +7,8 @@ But the learning never stops.
 
 I’m developping my skills in **C**, **C++**, **Python**, and **JavaScript**.
 
-Here a link to my more graphic project : <a href="https://jrb.at"></a>
+Here a link to my more graphic project : <a href="https://jrb.at" target="_blank">JRB.at</a>
+
 
 <h3>Tech Stack</h3>
 
