@@ -12,7 +12,7 @@ My design portfolio over there: <a href="https://jrb.at" target="_blank">JRB.at<
 
 <h3>Tech Stack</h3>
 
-[![myskills](https://skillicons.dev/icons?i=c,cpp,js,html,css,react,docker,unix)](https://skillicons.dev)
+[![myskills](https://skillicons.dev/icons?i=c,cpp,js,java,html,css,react,docker,unix)](https://skillicons.dev)
 
 <h3>Connect with me</h3>
 <p>
