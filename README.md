@@ -5,7 +5,7 @@ I finished the core curriculum at <a href="https://42berlin.de">42 Berlin</a>,
 But the learning never stops.
 
 
-I’m developping my skills in **C**, **C++**, **Python**, and **JavaScript**.
+I’m developping my skills in **C**, **C++**, **Java**, and **JavaScript**.
 
 My design portfolio over there: <a href="https://jrb.at" target="_blank">JRB.at</a>
 
