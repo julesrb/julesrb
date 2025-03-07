@@ -6,7 +6,6 @@ But the learning never stops.
 
 
 I’m developping my skills in **C**, **C++**, **Java** and **JavaScript**.
-</br>And **Swift** recently.
 
 My design portfolio over there: <a href="https://jrb.at" target="_blank">JRB.at</a>
 
