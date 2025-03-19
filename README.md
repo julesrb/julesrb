@@ -14,6 +14,14 @@ My design portfolio over there: <a href="https://jrb.at" target="_blank">JRB.at<
 
 [![myskills](https://skillicons.dev/icons?i=c,cpp,js,java,html,css,react,docker,unix)](https://skillicons.dev)
 
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dantol29&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="dantol29" 
+    bg_color=#808080/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dantol29&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="danto29" /></p>
+
 <h3>Connect with me</h3>
 <p>
 <a href="https://linkedin.com/in/jules-bernard-52843099" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="julesbernard" /></a>
