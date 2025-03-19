@@ -15,12 +15,12 @@ My design portfolio over there: <a href="https://jrb.at" target="_blank">JRB.at<
 [![myskills](https://skillicons.dev/icons?i=c,cpp,js,java,html,css,react,docker,unix)](https://skillicons.dev)
 
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dantol29&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="dantol29" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=julesrb9&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="julesrb" 
     bg_color=#808080/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dantol29&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="danto29" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julesrb&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="julesrb" /></p>
 
 <h3>Connect with me</h3>
 <p>
