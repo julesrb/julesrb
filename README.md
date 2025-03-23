@@ -10,11 +10,11 @@ I’m developping my skills in **C**, **C++**, **Java** and **JavaScript**.
 My design portfolio over there: <a href="https://jrb.at" target="_blank">JRB.at</a>
 
 
-<h3>Tech Stack</h3>
+## Tech Stack
 
 [![myskills](https://skillicons.dev/icons?i=c,cpp,js,java,html,css,react,docker,unix)](https://skillicons.dev)
 
-## Projects by Category
+<h3>Projects by Category</h3>
 
 ### Web Development
 - [Project A](https://github.com/user/project-a) - Description
