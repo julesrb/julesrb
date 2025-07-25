@@ -23,6 +23,8 @@ My design portfolio over there: <a href="https://jrb.at" target="_blank">JRB.at<
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julesrb&langs_count=8&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julesrb&langs_count=8&layout=compact&bg_color=0d1117&text_color=ffffff&cache_seconds=7200)
+
 ![GitHub Stats](https://readme-stats-8qs0ubchy-julesrbs-projects.vercel.app/api?username=julesrb&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff)
 
 <h3>Connect with me</h3>
