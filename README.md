@@ -1,20 +1,24 @@
-<h2>Greetings</h2>
+# Hey, I’m Jules 👋
 
-I'm Jules bernard, a software developer into pixels, web dev and embeded system.
-I finished the core curriculum at <a href="https://42berlin.de">42 Berlin</a>,
-But the learning never stops.
+Software developer with a foundation in low level languages, a love for clean and purposeful design,
+and a growing focus on backend infrastructure and cloud-native workflows.
 
+Currently working on:
+	•	🎓 LaTeX transcript generator for the 42 Berlin community to aid in job hunting
+	•	🔄 Backend infrastructure, cloud platforms & DevOps workflows (AWS, containers, CI/CD)
+	•	🔮 Learning more about AI systems & LLM-powered apps
 
-I’m developping my skills in **C**, **C++**, **Java** and **JavaScript**.
+🛠️ Past experience in embedded projects (like drones 🚁),  
+plus a strong base in C, C++, Java, and JS.
 
-My design portfolio over there: <a href="https://jrb.at" target="_blank">JRB.at</a>
+🎨 My past designer archive lives here → [JRB.at](https://jrb.at)
 
-
+<!-- 
 <h3>Tech Stack</h3>
 
 [![myskills](https://skillicons.dev/icons?i=c,cpp,js,java,html,css,react,docker,unix)](https://skillicons.dev)
 
-<!-- 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=julesrb&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&v=1)
 
 ![Top Languages](https://readme-stats-8qs0ubchy-julesrbs-projects.vercel.app/api/top-langs?username=julesrb&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&v=1)
