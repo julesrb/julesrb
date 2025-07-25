@@ -10,11 +10,11 @@ Currently working on:
 - 🔮 Learning more about AI systems & LLM-powered apps
 
 
+
 🛠️ Past experience in embedded projects (like drones 🚁),  
 plus a strong base in C, C++, Java, and JS.
 
 
-🎨 My past designer archive lives here → [JRB.at](https://jrb.at)
 
 <!-- 
 <h3>Tech Stack</h3>
@@ -33,6 +33,8 @@ plus a strong base in C, C++, Java, and JS.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julesrb&langs_count=8&layout=compact&bg_color=0d1117&text_color=ffffff&cache_seconds=7200)
 
 <!--![GitHub Stats](https://readme-stats-8qs0ubchy-julesrbs-projects.vercel.app/api?username=julesrb&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff)-->
+
+🎨 My past designer archive lives here → [JRB.at](https://jrb.at)
 
 <h3>Connect with me</h3>
 <p>
