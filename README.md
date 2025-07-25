@@ -4,9 +4,12 @@ Software developer with a foundation in low level languages, a love for clean an
 and a growing focus on backend infrastructure and cloud-native workflows.
 
 Currently working on:
-	•	🎓 LaTeX transcript generator for the 42 Berlin community to aid in job hunting
-	•	🔄 Backend infrastructure, cloud platforms & DevOps workflows (AWS, containers, CI/CD)
-	•	🔮 Learning more about AI systems & LLM-powered apps
+
+- 🎓 LaTeX transcript generator for the 42 Berlin community to aid in job hunting
+
+- 🔄 Backend infrastructure, cloud platforms & DevOps workflows (AWS, containers, CI/CD)
+
+- 🔮 Learning more about AI systems & LLM-powered apps
 
 🛠️ Past experience in embedded projects (like drones 🚁),  
 plus a strong base in C, C++, Java, and JS.
