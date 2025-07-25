@@ -10,10 +10,7 @@ Currently working on:
 - 🔮 Learning more about AI systems & LLM-powered apps
 
 
-
-🛠️ Past experience in embedded projects (like drones 🚁),  
-plus a strong base in C, C++, Java, and JS.
-
+🛠️ Past experience in embedded projects (drones 🚁),  
 
 
 <!-- 
