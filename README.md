@@ -13,23 +13,13 @@ Currently working on:
 🛠️ Past experience in embedded projects (drones 🚁),  
 
 
-<!-- 
 <h3>Tech Stack</h3>
 
 [![myskills](https://skillicons.dev/icons?i=c,cpp,js,java,html,css,react,docker,unix)](https://skillicons.dev)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=julesrb&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&v=1)
-
-![Top Languages](https://readme-stats-8qs0ubchy-julesrbs-projects.vercel.app/api/top-langs?username=julesrb&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&v=1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julesrb&cache_seconds=1&v=2)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julesrb&langs_count=8&layout=compact) -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julesrb&langs_count=8&layout=compact&bg_color=0d1117&text_color=ffffff&cache_seconds=7200)
-
-<!--![GitHub Stats](https://readme-stats-8qs0ubchy-julesrbs-projects.vercel.app/api?username=julesrb&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff)-->
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=julesrb&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&v=1)-->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julesrb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 🎨 My past designer archive lives here → [JRB.at](https://jrb.at)
 
