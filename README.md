@@ -1,17 +1,15 @@
 # Hey, I’m Jules 👋
 
-Software developer with a foundation in low level languages, a love for clean and purposeful design,
-and a growing focus on backend infrastructure and cloud-native workflows.
+Software developer with foundations in low level languages, a love for clean and purposeful design, and a growing focus on backend infrastructure and cloud-native workflows.
 
 Currently working on:
 
-- 🎓 LaTeX transcript generator for the 42 Berlin community to aid in job hunting
+- 🎓 V2 of trancript 42, a tool to support students from the network 42 to showcase their skills and aid in job hunting
 - 🔄 Backend infrastructure, cloud platforms & DevOps workflows (AWS, containers, CI/CD)
-- 🔮 Learning more about AI systems & LLM-powered apps
+- 🔮 Fluency with AI, agents and LLMs tech 
 
 
-🛠️ Past experience in embedded projects (drones 🚁),  
-
+🛠️ Past experience with drones 🚁 controlling system. 
 
 <h3>Tech Stack</h3>
 
