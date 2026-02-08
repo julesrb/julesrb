@@ -13,7 +13,7 @@ Currently working on:
 
 <h3>Tech Stack</h3>
 
-[![myskills](https://skillicons.dev/icons?i=c,cpp,swift,ts,js,html,css,react,nextjs,docker,aws,git,linux,bash,supabase)](https://skillicons.dev)
+[![myskills](https://skillicons.dev/icons?i=c,cpp,swift,ts,react,nextjs,docker,aws)](https://skillicons.dev)
 
 
 ![Top Languages](./profile/top-langs.svg)
