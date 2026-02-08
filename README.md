@@ -15,12 +15,10 @@ Currently working on:
 
 <h3>Tech Stack</h3>
 
-[![myskills](https://skillicons.dev/icons?i=c,cpp,js,java,html,css,react,docker,unix)](https://skillicons.dev)
+[![myskills](https://skillicons.dev/icons?i=c,cpp,swift,ts,js,html,css,react,nextjs,docker,aws,git,linux,bash,supabase)](https://skillicons.dev)
 
 
-![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 🎨 My past designer archive lives here → [JRB.at](https://jrb.at)
 
