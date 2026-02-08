@@ -18,8 +18,9 @@ Currently working on:
 [![myskills](https://skillicons.dev/icons?i=c,cpp,js,java,html,css,react,docker,unix)](https://skillicons.dev)
 
 
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=julesrb&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&v=1)-->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julesrb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 
 🎨 My past designer archive lives here → [JRB.at](https://jrb.at)
 
