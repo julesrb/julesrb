@@ -30,7 +30,7 @@
   <!-- - 📅 **[Spring_boot_calendar](https://github.com/julesrb/Spring_boot_calendar)** – Spring Boot backend for managing calendar events and time tracking
   - 🚗 **[SQL_car_rent](https://github.com/julesrb/SQL_car_rent)** – Car rental management system with CRUD operations on a relational DB (Java/SQL) -->
 
-### DevOps
+### Infra & DevOps
   - ☁️ **[Cloud-1](https://github.com/julesrb/Cloud-1)** – Automated AWS EC2 provisioning and persistent deployment via Ansible
   - ☸️ **[Inception-of-Things](https://github.com/julesrb/Inception-of-Things)** – Hands-on exploration of Kubernetes and CI/CD tooling
   <!-- - 🐳 **[inception](https://github.com/julesrb/inception)** – Docker-based multi-service infrastructure project (42 curriculum) -->
@@ -59,6 +59,7 @@
 ### Open SourceContribution
  - 🗺️ **[rncp](https://github.com/julesrb/rncp)** – Interactive RNCP Title planner website for 42 students (TypeScript)
 
+<br>
 
 <img src="./profile/top-langs.svg" alt="Top Languages" />
 
