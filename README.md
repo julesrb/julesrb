@@ -24,7 +24,7 @@
 
 ## Projects
 
-**Web Development**
+### Web Development
   - **[Transcript42](https://github.com/julesrb/Transcript42)** – Fullstack TypeScript/Next.js web service generating academic transcripts from the 42 intranet, used by 500+ students for job hunting ⭐21
   - **[FIX-msg](https://github.com/julesrb/FIX-msg)** – Multi-threaded TCP trading simulator using FIX-style protocol with router, brokers, and markets (Java)
   <!-- - **[Spring_boot_calendar](https://github.com/julesrb/Spring_boot_calendar)** – Spring Boot backend for managing calendar events and time tracking
