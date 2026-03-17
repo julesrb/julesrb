@@ -1,11 +1,12 @@
 # Hi, I'm Jules 👋
 
-💻 **Software Developer** | ☁️ **Backend & Cloud-Native** | 🎨 **Ex-Designer**
+💻 **Software Developer** | 🎨 **Ex-Designer**
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -21,9 +22,9 @@
 - � **Robotics (Past)** – Experience designing and developing drone control systems. -->
 
 
-### 🗂️ Projects
+## Projects
 
-- 🌐 **Web Development**
+- 🌐 Web Development
   - **[Transcript42](https://github.com/julesrb/Transcript42)** – Fullstack TypeScript/Next.js web service generating academic transcripts from the 42 intranet, used by 500+ students for job hunting ⭐21
   - **[FIX-msg](https://github.com/julesrb/FIX-msg)** – Multi-threaded TCP trading simulator using FIX-style protocol with router, brokers, and markets (Java)
   <!-- - **[Spring_boot_calendar](https://github.com/julesrb/Spring_boot_calendar)** – Spring Boot backend for managing calendar events and time tracking
@@ -58,11 +59,9 @@
 - 🖥️ **Open SourceContribution**
  - **[rncp](https://github.com/julesrb/rncp)** – Interactive RNCP Title planner website for 42 students (TypeScript)
 
-<br />
 
-<p align="center">
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
-</p>
+<img src="./profile/top-langs.svg" alt="Top Languages" />
+
 
 ### 📫 Connect & Links
 - 🎨 My past designer archive lives here → **[JRB.at](https://jrb.at)**
