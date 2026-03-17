@@ -26,7 +26,7 @@
 
 ### Web Development
   - 🎓 **[Transcript42](https://github.com/julesrb/Transcript42)** – Fullstack TypeScript/Next.js web service generating academic transcripts from the 42 intranet, used by 500+ students for job hunting ⭐21
-  - 📈 **[FIX-msg](https://github.com/julesrb/FIX-msg)** – Multi-threaded TCP trading simulator using FIX-style protocol with router, brokers, and markets (Java)
+  - 🛡️ **[transcendence](https://github.com/julesrb/transcendence)** – Includes secure auth flows and real-time communication hardening
   <!-- - 📅 **[Spring_boot_calendar](https://github.com/julesrb/Spring_boot_calendar)** – Spring Boot backend for managing calendar events and time tracking
   - 🚗 **[SQL_car_rent](https://github.com/julesrb/SQL_car_rent)** – Car rental management system with CRUD operations on a relational DB (Java/SQL) -->
 
@@ -42,7 +42,6 @@
   - 🏊‍♂️ **[Swift_Piscine](https://github.com/julesrb/Swift_Piscine)** – iOS development fundamentals and training exercises
 
 <!-- - 🔒 **Web Security** -->
-  <!-- - 🛡️ **[transcendence](https://github.com/julesrb/transcendence)** – Includes secure auth flows and real-time communication hardening -->
 
 ### Network & System
 
@@ -52,6 +51,7 @@
   - 🚀 **[avaj-launcher](https://github.com/julesrb/avaj-launcher)** – Java project implementing classical software design patterns -->
 
 ### Other
+  - 📈 **[FIX-msg](https://github.com/julesrb/FIX-msg)** – Multi-threaded TCP trading simulator using FIX-style protocol with router, brokers, and markets (Java)
   - 🚁 **[ddd-opti](https://github.com/julesrb/ddd-opti)** – React + C++ app for choreographing real drones and visualizing them in 3D space
   - 🕹️ **[cub3D](https://github.com/julesrb/cub3D)** – Raycasting 3D maze engine inspired by Wolfenstein 3D (C)
 
