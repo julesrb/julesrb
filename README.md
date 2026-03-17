@@ -64,11 +64,8 @@
 <img src="./profile/top-langs.svg" alt="Top Languages" />
 
 
-### 📫 Connect & Links
-- 🎨 My past designer archive lives here → **[JRB.at](https://jrb.at)**
-- 💼 **[LinkedIn](https://linkedin.com/in/jules-bernard-52843099)**
+## Connect & Links
 
-<p>
+My past designer archive lives here → **[JRB.at](https://jrb.at)**
+
 <a href="https://linkedin.com/in/jules-bernard-52843099" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/julesrb" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
