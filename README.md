@@ -56,7 +56,7 @@
   - 🕹️ **[cub3D](https://github.com/julesrb/cub3D)** – Raycasting 3D maze engine inspired by Wolfenstein 3D (C)
 
 
-### Open SourceContribution
+### Open Source Contribution
  - 🗺️ **[rncp](https://github.com/julesrb/rncp)** – Interactive RNCP Title planner website for 42 students (TypeScript)
 
 <br>
