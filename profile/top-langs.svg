@@ -140,7 +140,7 @@
           data-testid="lang-progress"
           x="97.53"
           y="0"
-          width="46.12"
+          width="46.08"
           height="8"
           fill="#3178c6"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="143.65"
+          x="143.61"
           y="0"
-          width="35.18"
+          width="35.19"
           height="8"
           fill="#F05138"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="178.83"
+          x="178.8"
           y="0"
-          width="32.42"
+          width="32.43"
           height="8"
           fill="#555555"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="211.25"
+          x="211.23000000000002"
           y="0"
-          width="22.52"
+          width="22.53"
           height="8"
           fill="#f1e05a"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="233.77"
+          x="233.76000000000002"
           y="0"
-          width="16.23"
+          width="16.24"
           height="8"
           fill="#b07219"
         />
@@ -198,14 +198,14 @@
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 18.45%
+        TypeScript 18.43%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#F05138" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Swift 14.07%
+        Swift 14.08%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
@@ -226,7 +226,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 6.49%
+        Java 6.50%
       </text>
     </g>
   </g></g>
